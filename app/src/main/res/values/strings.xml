@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Доска объявлений</string>
+    <string name="action_settings">Настройки</string>
+    <string name="defaultItemNameText">Заголовок</string>
+    <string name="defaultItemPriceValue">1000</string>
+    <string name="defaultItemContentText">Содержание</string>
+    <string name="itemTagName">Заголовок:</string>
+    <string name="itemPriceTagName">Цена:</string>
+    <string name="itemContentTagName">Содержание:</string>
+</resources>
